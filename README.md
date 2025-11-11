@@ -1,36 +1,36 @@
-项目名                          作者                    链接
---------------------------------------------------------------------------------
-aos-AVP                         nova-video-player       https://github.com/nova-video-player/aos-AVP
-Java                            DuGuQiuBai              https://github.com/DuGuQiuBai/Java
-v2rayNG                         2dust                   https://github.com/2dust/v2rayNG
-v2rayN                          2dust                   https://github.com/2dust/v2rayN
-better-genshin-impact           babalae                 https://github.com/babalae/better-genshin-impact
-r0capture                       r0ysue                  https://github.com/r0ysue/r0capture
-Yae                             HolographicHat          https://github.com/HolographicHat/Yae
-R3nzSkin-For-China-Server       Xuemantou               https://github.com/Xuemantou/R3nzSkin-For-China-Server
-jwt-editor                      DolphFlynn              https://github.com/DolphFlynn/jwt-editor
-goblin                          xiecat                  https://github.com/xiecat/goblin
-NacosExploit                    h0ny                    https://github.com/h0ny/NacosExploit
-penetration-suite-toolkit       makoto56                https://github.com/makoto56/penetration-suite-toolkit
-Auto_Wordlists                  carlospolop             https://github.com/carlospolop/Auto_Wordlists
-windows-kernel-exploits         SecWiki                 https://github.com/SecWiki/windows-kernel-exploits
-BrowserGhost                    QAX-A-Team              https://github.com/QAX-A-Team/BrowserGhost
-Windows-Exploit-Suggester       gr33nm0nk2802           https://github.com/gr33nm0nk2802/Windows-Exploit-Suggester
-wy876_POC                       L1n0rg                  https://github.com/L1n0rg/wy876_POC
-webshell                        tennc                   https://github.com/tennc/webshell
-TscanPlus                       TideSec                 https://github.com/TideSec/TscanPlus
-TerraformGoat                   HXSecurity              https://github.com/HXSecurity/TerraformGoat
-awesome-cloud-security           teamssix                https://github.com/teamssix/awesome-cloud-security
-EZ                              m-sec-org               https://github.com/m-sec-org/EZ
-MDUT                            SafeGroceryStore        https://github.com/SafeGroceryStore/MDUT
-linux-kernel-exploits           SecWiki                 https://github.com/SecWiki/linux-kernel-exploits
-FastJsonParty                   lemono0                 https://github.com/lemono0/FastJsonParty
-SpringBoot-Scan                 AabyssZG                https://github.com/AabyssZG/SpringBoot-Scan
-JNDI-Injection-Exploit          welk1n                  https://github.com/welk1n/JNDI-Injection-Exploit
-Hello-Java-Sec                  j3ers3                  https://github.com/j3ers3/Hello-Java-Sec
-404StarLink                     knownsec                https://github.com/knownsec/404StarLink
-wxappUnpacker                   YangChengTeam           https://github.com/YangChengTeam/wxappUnpacker
-Microsoft-Activation-Scripts    massgravel              https://github.com/massgravel/Microsoft-Activation-Scripts
-xray                            chaitin                 https://github.com/chaitin/xray
-0day                            helloexp                https://github.com/helloexp/0day
-ARL-docker                      honmashironeko          https://github.com/honmashironeko/ARL-docker
+| 项目名                  | 作者             | 链接                                                                 | 标签     |
+|-------------------------|------------------|----------------------------------------------------------------------|----------|
+| aos-AVP                 | nova-video-player| https://github.com/nova-video-player/aos-AVP                         |          |
+| Java                    | DuGuQiuBai       | https://github.com/DuGuQiuBai/Java                                   |          |
+| v2rayNG                 | 2dust            | https://github.com/2dust/v2rayNG                                     |          |
+| v2rayN                  | 2dust            | https://github.com/2dust/v2rayN                                      |          |
+| better-genshin-impact   | babalae          | https://github.com/babalae/better-genshin-impact                     |          |
+| r0capture               | r0ysue           | https://github.com/r0ysue/r0capture                                  |          |
+| Yae                     | HolographicHat   | https://github.com/HolographicHat/Yae                                |          |
+| R3nzSkin-For-China-Server| Xuemantou      | https://github.com/Xuemantou/R3nzSkin-For-China-Server                |          |
+| jwt-editor              | DolphFlynn       | https://github.com/DolphFlynn/jwt-editor                             |          |
+| goblin                  | xiecat           | https://github.com/xiecat/goblin                                     |          |
+| NacosExploit            | h0ny             | https://github.com/h0ny/NacosExploit                                 |          |
+| penetration-suite-toolkit| makoto56        | https://github.com/makoto56/penetration-suite-toolkit                |          |
+| Auto_Wordlists          | carlospolop      | https://github.com/carlospolop/Auto_Wordlists                        |          |
+| windows-kernel-exploits | SecWiki          | https://github.com/SecWiki/windows-kernel-exploits                    |          |
+| BrowserGhost            | QAX-A-Team       | https://github.com/QAX-A-Team/BrowserGhost                           |          |
+| Windows-Exploit-Suggester| gr33nm0nk2802   | https://github.com/gr33nm0nk2802/Windows-Exploit-Suggester            |          |
+| wy876_POC               | L1n0rg           | https://github.com/L1n0rg/wy876_POC                                  |          |
+| webshell                | tennc            | https://github.com/tennc/webshell                                    |          |
+| TscanPlus               | TideSec          | https://github.com/TideSec/TscanPlus                                  |          |
+| TerraformGoat           | HXSecurity       | https://github.com/HXSecurity/TerraformGoat                           |          |
+| awesome-cloud-security  | teamssix         | https://github.com/teamssix/awesome-cloud-security                    |          |
+| EZ                      | m-sec-org        | https://github.com/m-sec-org/EZ                                       |          |
+| MDUT                    | SafeGroceryStore | https://github.com/SafeGroceryStore/MDUT                              |          |
+| linux-kernel-exploits   | SecWiki          | https://github.com/SecWiki/linux-kernel-exploits                      |          |
+| FastJsonParty           | lemono0          | https://github.com/lemono0/FastJsonParty                              |          |
+| SpringBoot-Scan         | AabyssZG         | https://github.com/AabyssZG/SpringBoot-Scan                          |          |
+| JNDI-Injection-Exploit  | welk1n           | https://github.com/welk1n/JNDI-Injection-Exploit                     |          |
+| Hello-Java-Sec          | j3ers3           | https://github.com/j3ers3/Hello-Java-Sec                             |          |
+| 404StarLink             | knownsec         | https://github.com/knownsec/404StarLink                               |          |
+| wxappUnpacker           | YangChengTeam    | https://github.com/YangChengTeam/wxappUnpacker                        |          |
+| Microsoft-Activation-Scripts| massgravel   | https://github.com/massgravel/Microsoft-Activation-Scripts           |          |
+| xray                    | chaitin          | https://github.com/chaitin/xray                                       |          |
+| 0day                    | helloexp         | https://github.com/helloexp/0day                                      |          |
+| ARL-docker              | honmashironeko   | https://github.com/honmashironeko/ARL-docker                          |          |
